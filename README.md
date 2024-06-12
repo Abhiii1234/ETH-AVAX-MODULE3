@@ -68,4 +68,4 @@ To customize the contract to suit your specific requirements, refer to the provi
 Abhigyan Pushkar
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License
