@@ -1,4 +1,4 @@
-# ETH-AVAX-Module-3-Contract
+# ETH-AVAX-Module-3
 
 In this project, we are suggested to create our own token on local HardHat. After that, the contract creator should be able to mint tokens to a provided address. Any user should be able to burn and transfer tokens.
 
